@@ -1,3 +1,3 @@
 include ':WCNetworkLibrary'
 include ':app'
-rootProject.name = "NetworkLibrary"
+rootProject.name = "RootNetworkLibrary"
